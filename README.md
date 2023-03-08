@@ -1,7 +1,7 @@
 # technoodles# 💫 About Me:
 
 # 💫 About Me:
-Curently building for the web .Looking to collaborate on Full stack projects. Also learning node.<br>Looking for help with diversifying the tech culture.<br>You can ask me about tech ~ish stuffs. Fun fact about me is I can speak Spanish.
+Currently building for the web.Looking to collaborate on Full stack projects.You can ask me about tech ~ish stuffs.
 
 
 ## 🌐 Socials:
